@@ -1,4 +1,4 @@
-# spring course 2022
+# SPRING 2022
 
 ## linux kernel 
 ## neural network
